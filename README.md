@@ -24,7 +24,10 @@ npm start
 ```
 
 Seed Data Base if need so.
-you need uri to access the database
+
+**You need to add _uri_ to .env file to access the database**
+
+**Please contact me if I have't sent it yet**
 
 ```sh
 npm seed-db
